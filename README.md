@@ -1,3 +1,3 @@
 # HTML
- JEAN PEREIRA COELHO
+ JEAN PEREIRA COELHO;
  Aprofundando nos conhecimentos da linguagem HTML
